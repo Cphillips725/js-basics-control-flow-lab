@@ -15,8 +15,7 @@ scooters.
 Scuber's drivers charge their passengers a variable amount based on how far
 they need to travel. Modify the `index.js` file to make sure that Scuber's drivers
 are properly telling their passengers how much the ride will cost.
-
-## Read the Tests
+k
 
 We know that you do not have much experience with testing, so that is why it is
 very important for you to read the instructions in this and every lab. That
